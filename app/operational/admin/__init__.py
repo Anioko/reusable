@@ -1,0 +1,11 @@
+from app.operational.admin.views import admin  # noqa
+from app.operational.admin.users import admin  # noqa
+from app.operational.admin.contact import admin  # noqa
+from app.operational.admin.payment import admin  # noqa
+from app.operational.admin.pricingplan import admin  # noqa
+from app.operational.admin.subscription import admin  # noqa
+from app.operational.admin.organisation import admin  # noqa
+from app.operational.admin.message import admin  # noqa
+from app.operational.admin.texts import admin  # noqa
+from app.operational.admin.marketplace import admin  # noqa
+from app.operational.admin.frontend import admin  # noqa
